@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 #The features of this app are
 1. Tracking the guest residents
-2. Tracking the maintanance personnale
-3. Tracking devlivery personnale
+2. Tracking the maintanance personnel
+3. Tracking devlivery personnel
