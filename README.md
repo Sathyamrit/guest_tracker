@@ -1,6 +1,6 @@
 # guest_tracker
 
-A new Flutter project.
+A new Flutter project for guest residents tracking.
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#The features of this app are
+1. Tracking the guest residents
+2. Tracking the maintanance personnale
+3. Tracking devlivery personnale
